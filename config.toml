@@ -1,0 +1,4 @@
+baseURL = 'http://rameezrehman408.gihub.io/'
+languageCode = 'en-us'
+title = 'Rameez Dev & Security Blog'
+theme = 'ananke'
